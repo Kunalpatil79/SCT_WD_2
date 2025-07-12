@@ -12,4 +12,6 @@ I created a modern, responsive landing page for a smart product called **EcoBott
 - Responsive layout
 
 ## 🔗 Live Link
-👉 https://your-netlify-link.netlify.app
+👉 [![Netlify Status](https://api.netlify.com/api/v1/badges/3e9fdce3-7548-45b6-9362-eafe7ffbaa42/deploy-status)](https://app.netlify.com/projects/ecobottle1/deploys)
+
+
